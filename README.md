@@ -27,8 +27,11 @@ Muestra el nombre sorteado en la pantalla dentro de un <p> con un mensaje destac
 Estilizada con CSS para mejorar la visualización de la lista de amigos.
 Botones funcionales para agregar y sortear nombres.
 ### 🛠 Tecnologías Utilizadas
+
 🔹 HTML → Estructura del proyecto.
+
 🔹 CSS → Diseño y estilos para mejorar la interfaz.
+
 🔹 JavaScript → Lógica para agregar amigos y realizar el sorteo.
 
 ### 📌 Instrucciones de Uso
