@@ -14,7 +14,7 @@ Agrega el nombre al array de amigos y lo muestra en una lista en pantalla.
 ✅ Listar Amigos:
 
 La lista de amigos se actualiza dinámicamente cada vez que se agrega un nuevo nombre.
-Se genera un elemento '<li>' por cada amigo en la lista.
+Se genera un elemento "<li>" por cada amigo en la lista.
 
 ✅ Sortear un Amigo Aleatoriamente:
 
